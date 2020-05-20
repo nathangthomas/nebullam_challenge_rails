@@ -1,7 +1,8 @@
 class ChallengeDataController < ApplicationController
 
   def index
-    @challenge_data = ChallengeData.new
-    # render json: NebullamService.new
+    request = NebullamService.new
+    @challenge_data = request.challenge_data[:data]
   end
+
 end

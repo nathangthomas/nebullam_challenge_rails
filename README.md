@@ -13,6 +13,6 @@ https://github.com/nathangthomas/nebullam_challeng_rails
 - Visit [http://localhost:3000/](http://localhost:3000/) in your browser to interact with the app.
 
 
-### Sample
+## Sample
 
 <img width="716" alt="Screen Shot 2020-05-20 at 3 07 20 PM" src="https://user-images.githubusercontent.com/47466067/82497548-b087db00-9aab-11ea-9586-30f40972795f.png">

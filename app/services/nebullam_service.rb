@@ -1,5 +1,6 @@
 class NebullamService
-  def challeng_data
+
+  def challenge_data
     get_json("/challengeData")
   end
 
